@@ -1,4 +1,4 @@
-# Kaggle_Transaction_Prediction
+# Kaggle_Sales_Prediction
 
 This challenge serves as the final project for the "How to win a data science competition" Coursera course.
 In this competition, competitors will work with a challenging time-series dataset consisting of daily sales data, kindly provided by one of the largest Russian software firms - 1C Company. 
